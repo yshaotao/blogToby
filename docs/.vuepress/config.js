@@ -1,5 +1,5 @@
 module.exports = {
-  base:'/',// 基础路径--用于部署到github
+  base:'/blogToby/',// 基础路径--用于部署到github
   title: '水中鱼_和寻觅的博客',//网站标题
   description: "我不懂什么坚持，全靠死撑",//网站描述
   head: [//额外注入的标签，这里的'/'指向 docs/.vuepress/public 文件目录 
